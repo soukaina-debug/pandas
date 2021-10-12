@@ -1,4 +1,4 @@
-city,country,date.utc,location,parameter,value,unit
+city,country,date.utc,location,parameter,value,unit.
 Antwerpen,BE,2019-06-18 06:00:00+00:00,BETR801,pm25,18.0,µg/m³
 Antwerpen,BE,2019-06-17 08:00:00+00:00,BETR801,pm25,6.5,µg/m³
 Antwerpen,BE,2019-06-17 07:00:00+00:00,BETR801,pm25,18.5,µg/m³
